@@ -1,0 +1,5 @@
+.tox
+__pycache__/
+build/
+dist/
+tvtk_visualiser.egg-info/
